@@ -2,7 +2,7 @@
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
-Sample Project for my initial learning on ReactJS
+Sample Project step towards learning on ReactJS
 
 [DEMO](https://exploring-react.connect2matheen.repl.co/)
 
